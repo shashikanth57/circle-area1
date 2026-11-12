@@ -6,3 +6,42 @@ WORKDIR /app
 COPY target/circle-area-0.0.1-SNAPSHOT.jar app.jar
 
 ENTRYPOINT ["java", "-cp", "app.jar", "com.example.circle_area.App"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
